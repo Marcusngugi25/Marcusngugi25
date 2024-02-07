@@ -7,12 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/marcus_scholar1" target="blank"><img src="https://img.shields.io/twitter/follow/marcus_scholar1?logo=twitter&style=for-the-badge" alt="marcus_scholar1" /></a> </p>
 
+- 🔭 I’m currently working on **My personal website**
+
+- 🌱 I’m currently learning **ALX Software Engineering Course**
+
+- 💬 Ask me about **Astronomy, HTML, CSS**
+
 - 📫 How to reach me **marcusngugi@gmail.com**
 
 - ⚡ Fun fact **I studied astronomy in university**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/@marcusngugi25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@marcusngugi25" height="30" width="40" /></a>
 <a href="https://twitter.com/marcus_scholar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcus_scholar1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcus ngugi ng'ang'a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcus ngugi ng'ang'a" height="30" width="40" /></a>
 </p>
@@ -25,6 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusngugi25&show_icons=true&locale=en" alt="marcusngugi25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcusngugi25&" alt="marcusngugi25" /></p>
+
 
 
 <!---

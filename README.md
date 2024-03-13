@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus Ngugi Ng'ang'a</h1>
-<h3 align="center">A Kenyan passionate about coding and games</h3>
+<h3 align="center">Kenyan astronomer on the path to becoming a software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcusngugi25&label=Profile%20views&color=0e75b6&style=flat" alt="marcusngugi25" /> </p>
 

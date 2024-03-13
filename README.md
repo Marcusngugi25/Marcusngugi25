@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **marcusngugi@gmail.com**
 
-- ⚡ Fun fact **I studied astronomy in university**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
